@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">GIFstore</string>
+
+    <!-- api keys -->
+    <string name="facebook_app_id">900512653382451</string>
+    <string name="twitter_api_key">io.fabric.ApiKey</string>
+    <string name="twitter_api_secret">611abc08b1b1cd46d550a561c6b015320735b2aa</string>
+    <string name="giphy_api_key">dc6zaTOxFJmzC</string>
+
+    <!-- package names -->
+    <string name="gifstore_pkg">unboundfire.gifstore</string>
+    <string name="instagram_pkg">com.instagram.android</string>
+    <string name="pintrest_pkg">com.pinterest</string>
+
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="intent_share_title">Share to</string>
+</resources>

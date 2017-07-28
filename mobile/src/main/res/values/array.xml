@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="actions">
+        <item>breaking up</item>
+        <item>cooking</item>
+        <item>crying</item>
+        <item>dancing</item>
+        <item>dreaming</item>
+        <item>drinking</item>
+        <item>eating</item>
+        <item>fainting</item>
+        <item>falling</item>
+        <item>fighting</item>
+        <item>finger guns</item>
+        <item>flirting</item>
+        <item>laughing</item>
+        <item>pout</item>
+        <item>running</item>
+        <item>singing</item>
+        <item>slapping</item>
+        <item>sleeping</item>
+        <item>smiling</item>
+        <item>smoking</item>
+        <item>sneezing</item>
+        <item>spinning</item>
+        <item>swimming</item>
+        <item>tossing drink</item>
+        <item>waiting</item>
+    </string-array>
+
+    <string-array name="reactions">
+        <item>agree</item>
+        <item>amused</item>
+        <item>angry</item>
+        <item>applause</item>
+        <item>aroused</item>
+        <item>awesome</item>
+        <item>awww</item>
+        <item>bfd</item>
+        <item>bitch please</item>
+        <item>bored</item>
+        <item>burn</item>
+        <item>confused</item>
+        <item>cool story bro</item>
+        <item>crying</item>
+        <item>dancing</item>
+        <item>dat ass</item>
+        <item>deal with it</item>
+        <item>disappointed</item>
+        <item>disgusted</item>
+        <item>do not want</item>
+        <item>drunk</item>
+        <item>embarrassed</item>
+        <item>eww</item>
+        <item>excited</item>
+        <item>eye roll</item>
+        <item>facepalm</item>
+        <item>finger guns</item>
+        <item>fist bump</item>
+        <item>flirt</item>
+        <item>fml</item>
+        <item>frown</item>
+        <item>frustrated</item>
+        <item>good job</item>
+        <item>good luck</item>
+        <item>good bye</item>
+        <item>gtfo</item>
+        <item>hair flip</item>
+        <item>happy dance</item>
+        <item>hearts</item>
+        <item>hello</item>
+        <item>help</item>
+        <item>hight five</item>
+        <item>hug</item>
+        <item>i give up</item>
+        <item>idgaf</item>
+        <item>idk</item>
+        <item>incredulous</item>
+        <item>interested</item>
+        <item>judging you</item>
+        <item>kiss</item>
+        <item>laughing</item>
+        <item>lewd</item>
+        <item>lol</item>
+        <item>love</item>
+        <item>mad</item>
+        <item>meh</item>
+        <item>mic drop</item>
+        <item>middle finger</item>
+        <item>no</item>
+        <item>nod</item>
+        <item>nom</item>
+        <item>not bad</item>
+        <item>on no you didnt</item>
+        <item>on snap</item>
+        <item>ok</item>
+        <item>omg</item>
+        <item>oops</item>
+        <item>party hard</item>
+        <item>please</item>
+        <item>pleased</item>
+        <item>popcorn</item>
+        <item>proud</item>
+        <item>rage</item>
+        <item>rejected</item>
+        <item>sad</item>
+        <item>sarcastic</item>
+        <item>scared</item>
+        <item>serious</item>
+        <item>seriously</item>
+        <item>sexy</item>
+        <item>shocked</item>
+        <item>shrug</item>
+        <item>shut up</item>
+        <item>sigh</item>
+        <item>sleepy</item>
+        <item>slow clap</item>
+        <item>smh</item>
+        <item>smile</item>
+        <item>sorry</item>
+        <item>squee</item>
+        <item>stoned</item>
+        <item>success</item>
+        <item>suck it</item>
+        <item>suspicious</item>
+        <item>table flip</item>
+        <item>thank you</item>
+        <item>thumbs down</item>
+        <item>thumbs up</item>
+        <item>ugh</item>
+        <item>want</item>
+        <item>what</item>
+        <item>whatever</item>
+        <item>win</item>
+        <item>wink</item>
+        <item>wow</item>
+        <item>wtf</item>
+        <item>yawn</item>
+        <item>yes</item>
+        <item>yolo</item>
+        <item>you got this</item>
+    </string-array>
+
+    <string-array name="emotions">
+        <item>angry</item>
+        <item>bored</item>
+        <item>disappointed</item>
+        <item>drunk</item>
+        <item>embarrassed</item>
+        <item>excited</item>
+        <item>frustrated</item>
+        <item>happy</item>
+        <item>hungry</item>
+        <item>inspired</item>
+        <item>lonely</item>
+        <item>love</item>
+        <item>nervous</item>
+        <item>pain</item>
+        <item>reaction</item>
+        <item>relaxed</item>
+        <item>sad</item>
+        <item>sassy</item>
+        <item>scared</item>
+        <item>shocked</item>
+        <item>sick</item>
+        <item>stressed</item>
+        <item>suprised</item>
+        <item>suspicious</item>
+        <item>tired</item>
+        <item>unimpressed</item>
+    </string-array>
+
+    <string-array name="memes">
+        <item>bitch im fabulous</item>
+        <item>come at me bro</item>
+        <item>dat ass</item>
+        <item>fail</item>
+        <item>fangirling</item>
+        <item>feels</item>
+        <item>forever alone</item>
+        <item>let me love you</item>
+        <item>like a boss</item>
+        <item>look at all the fucks i give</item>
+        <item>nyan cat</item>
+        <item>rickroll</item>
+        <item>spinning lana</item>
+        <item>steal yo girl</item>
+        <item>sturgeon face</item>
+        <item>surprised patrick</item>
+        <item>swag</item>
+        <item>troll</item>
+        <item>win</item>
+    </string-array>
+
+    <string-array name="tv">
+        <item>30 rock</item>
+        <item>alfred hitchcock presents</item>
+        <item>american idol</item>
+        <item>are you afraid of the dark?</item>
+        <item>arrested development</item>
+        <item>battlestar galactica</item>
+        <item>baywatch</item>
+        <item>boardwalk empire</item>
+        <item>bones</item>
+        <item>bored to death</item>
+        <item>boy meets world</item>
+        <item>breaking bad</item>
+        <item>californication</item>
+        <item>castle</item>
+        <item>cbs</item>
+        <item>charles in charge</item>
+        <item>cheers</item>
+        <item>chuck</item>
+    </string-array>
+
+    <string-array name="movies">
+        <item>21 jump street</item>
+        <item>28 days later</item>
+        <item>500 days of summer</item>
+        <item>ace ventura</item>
+    </string-array>
+
+    <string-array name="music">
+        <item>blink 182</item>
+        <item>brand new</item>
+        <item>circa survive</item>
+        <item>kid cudi</item>
+    </string-array>
+
+    <string-array name="animals">
+        <item>dogs</item>
+        <item>cats</item>
+    </string-array>
+</resources>

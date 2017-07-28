@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:fresco="http://schemas.android.com/apk/res-auto"
+    xmlns:droidicon="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/activity_gif_grid"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    tools:context="unboundfire.gifstore.GifSearchResultsActivity">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <include android:id="@+id/appbar_layout" layout="@layout/appbar" />
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <com.facebook.drawee.view.SimpleDraweeView
+                    android:id="@+id/gif"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    fresco:fadeDuration="50"
+                    fresco:backgroundImage="?android:attr/colorPrimaryDark"/>
+
+                <RelativeLayout
+                    android:layout_margin="8dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <com.thedazzler.droidicon.badges.DroidiconBadge
+                        android:id="@+id/btn_text"
+                        android:layout_margin="8dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        droidicon:db_bg_color="?android:attr/colorAccent"
+                        droidicon:db_icon_color="@android:color/white"
+                        droidicon:db_icon="fa-comment"
+                        droidicon:db_size="48dp" />
+
+                    <com.thedazzler.droidicon.badges.TwitterDroidiconBadge
+                        android:id="@+id/btn_twitter"
+                        android:layout_toRightOf="@+id/btn_text"
+                        android:layout_toEndOf="@+id/btn_text"
+                        android:layout_margin="8dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        droidicon:db_size="48dp" />
+
+                    <com.thedazzler.droidicon.badges.FacebookDroidiconBadge
+                        android:id="@+id/btn_facebook"
+                        android:layout_toRightOf="@+id/btn_twitter"
+                        android:layout_toEndOf="@+id/btn_twitter"
+                        android:layout_margin="8dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        droidicon:db_size="48dp" />
+
+                    <com.thedazzler.droidicon.badges.InstagramDroidiconBadge
+                        android:id="@+id/btn_instagram"
+                        android:layout_toRightOf="@+id/btn_facebook"
+                        android:layout_toEndOf="@+id/btn_facebook"
+                        android:layout_margin="8dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        droidicon:db_size="48dp" />
+
+                    <com.thedazzler.droidicon.badges.PinterestDroidiconBadge
+                        android:id="@+id/btn_pintrest"
+                        android:layout_toRightOf="@+id/btn_facebook"
+                        android:layout_toEndOf="@+id/btn_facebook"
+                        android:layout_margin="8dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        droidicon:db_size="48dp" />
+
+                </RelativeLayout>
+            </LinearLayout>
+
+        </ScrollView>
+    </LinearLayout>
+</android.support.design.widget.CoordinatorLayout>
